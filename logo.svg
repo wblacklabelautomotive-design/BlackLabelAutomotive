@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 180" role="img" aria-label="Black Label Automotive">
+  <style>
+    .word {
+      font-family: 'Cormorant Garamond', 'Didot', 'Bodoni 72', Georgia, serif;
+      font-weight: 400;
+      fill: #c9a961;
+    }
+    .sub {
+      font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 300;
+      fill: #c9a961;
+    }
+  </style>
+
+  <!-- BLACK -->
+  <text x="240" y="82" class="word" font-size="76" letter-spacing="14" text-anchor="middle">BLACK</text>
+
+  <!-- Hairline rule -->
+  <line x1="180" y1="104" x2="300" y2="104" stroke="#c9a961" stroke-width="0.75"/>
+
+  <!-- LABEL -->
+  <text x="240" y="140" class="word" font-size="34" letter-spacing="22" text-anchor="middle">LABEL</text>
+
+  <!-- AUTOMOTIVE -->
+  <text x="240" y="168" class="sub" font-size="10" letter-spacing="8" text-anchor="middle">AUTOMOTIVE</text>
+</svg>
